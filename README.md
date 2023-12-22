@@ -1,5 +1,6 @@
 # LaserPointer
-A face tracking Laser pointer project using servo motors with an Arduino microcontroller and python with OpenCV for face tracking.
+A face tracking Laser pointer project.
+Uses servo motors, an Arduino microcontroller, and python with OpenCV for face tracking.
 
 
 
